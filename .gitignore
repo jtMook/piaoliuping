@@ -1,0 +1,7 @@
+# 本地运行日志（后端 go run 输出）
+server.log
+*.log
+
+# 依赖与构建产物
+node_modules/
+dist/
