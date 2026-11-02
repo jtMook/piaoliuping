@@ -1,0 +1,65 @@
+// 主色调 - 暖金色
+$primary-color: #d4a843;
+$primary-dark: #c49a38;
+$primary-light: #e0bc6a;
+$primary-bg: rgba(212, 168, 67, 0.15);
+$primary-border: rgba(212, 168, 67, 0.3);
+
+// 背景色 - 深海蓝
+$bg-dark: #0a1628;
+$bg-card: #162236;
+$bg-card-hover: #1e2d45;
+$bg-input: #1a2a42;
+$bg-header: rgba(10, 22, 40, 0.95);
+
+// 文字色
+$text-primary: #ffffff;
+$text-secondary: #8899aa;
+$text-muted: #5a6a7a;
+
+// 边框色
+$border-color: #1e3050;
+$border-light: #2a4060;
+
+// 功能色
+$success-color: #48bb78;
+$warning-color: #ed8936;
+$error-color: #fc8181;
+$info-color: #63b3ed;
+
+// 圆角
+$radius-sm: 8rpx;
+$radius-md: 16rpx;
+$radius-lg: 24rpx;
+$radius-xl: 32rpx;
+
+// 阴影
+$shadow-sm: 0 2rpx 8rpx rgba(0, 0, 0, 0.3);
+$shadow-md: 0 4rpx 16rpx rgba(0, 0, 0, 0.4);
+$shadow-lg: 0 8rpx 32rpx rgba(0, 0, 0, 0.5);
+
+// 间距
+$spacing-xs: 8rpx;
+$spacing-sm: 16rpx;
+$spacing-md: 24rpx;
+$spacing-lg: 32rpx;
+$spacing-xl: 48rpx;
+
+// 字号
+$font-xs: 22rpx;
+$font-sm: 24rpx;
+$font-base: 28rpx;
+$font-md: 32rpx;
+$font-lg: 36rpx;
+$font-xl: 44rpx;
+$font-2xl: 56rpx;
+$font-3xl: 72rpx;
+
+// 动画
+$transition-fast: 0.15s ease;
+$transition-normal: 0.3s ease;
+$transition-slow: 0.5s ease;
+
+// 布局
+$header-height: 88rpx;
+$tabbar-height: 110rpx;

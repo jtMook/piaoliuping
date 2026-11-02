@@ -1,0 +1,5 @@
+/**
+ * uni-app 内置的 css 变量，会被自动引入到每个组件的 style 中
+ * 使用 @ 别名确保路径在任何组件中都能正确解析
+ */
+@import '@/styles/variables.scss';
